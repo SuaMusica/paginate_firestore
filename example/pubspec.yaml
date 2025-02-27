@@ -5,20 +5,12 @@ publish_to: "none"
 version: 1.0.0+1
 
 environment:
-<<<<<<< HEAD
   sdk: ">=3.7.0 <4.0.0"
-=======
-  sdk: ">=3.5.0 <4.0.0"
->>>>>>> update_versions
 
 dependencies:
   flutter:
     sdk: flutter
-<<<<<<< HEAD
-  firebase_core: ^3.12.1
-=======
   firebase_core: ^3.8.1
->>>>>>> update_versions
   paginate_firestore:
     path: ../
 
